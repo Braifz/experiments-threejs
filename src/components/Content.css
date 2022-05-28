@@ -1,0 +1,9 @@
+.content {
+  background-color: bisque;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+  z-index: 1;
+}
